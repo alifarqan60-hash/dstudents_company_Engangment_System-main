@@ -1,0 +1,6 @@
+[submodule "DV_Admin"]
+	url = https://github.com/AwahabMughal4/DV_Admin.git
+[submodule "DV_Company"]
+	url = https://github.com/AwahabMughal4/DV_Company.git
+[submodule "DataVerse"]
+	url = https://github.com/AwahabMughal4/DataVerse.git

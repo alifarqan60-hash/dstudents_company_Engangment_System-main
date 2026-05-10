@@ -1,0 +1,29 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch Zaki-Branch
+# Your branch is up to date with 'origin/Zaki-Branch'.
+#
+# Changes to be committed:
+#	new file:   src/assets/search_icon1.png
+#	modified:   src/components/courseprogress.jsx
+#	modified:   src/constants/images.js
+#	modified:   src/pages/Connections/ConnectionScreen.jsx
+#	modified:   src/pages/Datasets/DatasetDetails.jsx
+#	modified:   src/pages/Datasets/DatasetsScreen.jsx
+#	modified:   src/pages/Datasets/NewDatasetScreen.jsx
+#	modified:   src/pages/Discussions/DiscussionDetail.jsx
+#	modified:   src/pages/Discussions/DiscussionScreen.jsx
+#	modified:   src/pages/Discussions/FollowDiscussionPage.jsx
+#	modified:   src/pages/Discussions/YourDiscussions.jsx
+#	modified:   src/pages/Jobs/JobBoardLanding.jsx
+#	modified:   src/pages/News&Updates/DetailedNewsPage.jsx
+#	modified:   src/pages/News&Updates/NewsAndUpdates.jsx
+#	modified:   src/pages/courseScreen.jsx
+#	modified:   src/pages/coursecatalog.jsx
+#	modified:   src/pages/courses.jsx
+#	modified:   src/pages/dashboard.jsx
+#	modified:   src/pages/settingsScreen.jsx
+#
+screens color updated, also width setted
